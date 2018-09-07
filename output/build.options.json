@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\arduino-1.8.5\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.avr-gcc.path=C:\\Program Files (x86)\\arduino-1.8.5\\hardware\\tools\\avr,runtime.tools.avrdude.path=C:\\Program Files (x86)\\arduino-1.8.5\\hardware\\tools\\avr,runtime.tools.arduinoOTA.path=C:\\Program Files (x86)\\arduino-1.8.5\\hardware\\tools\\avr",
+  "fqbn": "fysetcf6:avr:fysetcf6",
+  "hardwareFolders": "C:\\Program Files (x86)\\arduino-1.8.5\\hardware,C:\\Users\\George\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "D:\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10805",
+  "sketchLocation": "D:\\Documents\\Arduino\\projects\\Marlin-1.1.9_2130\\Marlin\\Marlin.ino",
+  "toolsFolders": "C:\\Program Files (x86)\\arduino-1.8.5\\tools-builder,C:\\Program Files (x86)\\arduino-1.8.5\\hardware\\tools\\avr,C:\\Users\\George\\AppData\\Local\\Arduino15\\packages"
+}
