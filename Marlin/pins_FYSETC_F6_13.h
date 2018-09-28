@@ -140,9 +140,10 @@
 #define HEATER_2_PIN       7
 #define HEATER_BED_PIN     8
 
-#define FAN0_PIN           2
-#define FAN1_PIN           3
-#define FAN2_PIN           4
+#define FAN_PIN           44
+#define FAN0_PIN           44
+#define FAN1_PIN           45
+#define FAN2_PIN           46
 
 //
 // Misc. Functions
@@ -151,9 +152,9 @@
 #define LED_PIN            13
 
 #if ENABLED(RGB_LED) || ENABLED(RGBW_LED)
-  #define RGB_LED_R_PIN    44
-  #define RGB_LED_G_PIN    45
-  #define RGB_LED_B_PIN    46
+  #define RGB_LED_R_PIN    3
+  #define RGB_LED_G_PIN    4
+  #define RGB_LED_B_PIN    9
   #define RGB_LED_W_PIN    -1
 #endif
 
