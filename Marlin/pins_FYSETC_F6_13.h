@@ -32,6 +32,13 @@
   #define BOARD_NAME "FYSETC_F6_13"
 #endif
 
+
+// following are original pins for servos
+#define SERVO0_PIN       13
+#define SERVO1_PIN       11    // if you enable PS_ON_PIN , CONFLICT!
+#define SERVO2_PIN       10    // if you enable FILWIDTH_PIN , CONFLICT!
+#define SERVO3_PIN       4     // if you enable RGB_LED,it will CONFLICT!
+
 //
 // Limit Switches
 //
